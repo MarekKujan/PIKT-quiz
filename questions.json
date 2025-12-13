@@ -1,0 +1,412 @@
+[
+    {
+        "question": "Zákon č. 22/2004 Z. z. o elektronickom obchode ... sa nevzťahuje na služby informačnej spoločnosti, ktorých predmetom sú:",
+        "answers": [
+            { "text": "prenos dát", "correct": false },
+            { "text": "komerčná komunikácia", "correct": false },
+            { "text": "služby notárov v rozsahu výkonu ich verejnej právomoci", "correct": true },
+            { "text": "dane a poplatky", "correct": true },
+            { "text": "lotérie", "correct": true }
+        ]
+    },
+    {
+        "question": "V zmysle zákona č. 22/2004 Z. z. o elektronickom obchode ... nie je poskytovateľ služieb informačnej spoločnosti zodpovedný:",
+        "answers": [
+            { "text": "za automatické dočasné uloženie informácií výlučne na účel zefektívnenia ich ďalšieho prenosu v elektronickej komunikačnej sieti", "correct": true },
+            { "text": "ak vie o protiprávnom obsahu uložených informácií", "correct": false },
+            { "text": "ak vie o protiprávnom konaní príjemcu služieb informačnej spoločnost", "correct": false },
+            { "text": "za prenášané informácie, ak ide o služby informačnej spoločnosti pozostávajúce výlučne z prenosu informácií v elektronickej komunikačnej sieti", "correct": true },
+            { "text": "za prenášané informácie, ak ide o služby informačnej spoločnosti pozostávajúce výlučne z poskytnutia prístupu do elektronickej komunikačnej siete", "correct": true }
+        ]
+    },
+    {
+        "question": "Elektronický obchod je upravený zákonom č. 22/2004 Z. z .: Za okamih uzatvorenia zmluvy sa považuje:",
+        "answers": [
+            { "text": "doručenie potvrdenia o uskutočnení platby za objednaný tovar alebo službu", "correct": false },
+            { "text": "vyzdvihnutie zakúpeného tovaru alebo služby", "correct": false },
+            { "text": "elektronické potvrdenie objednávky bezodkladne po jej doručení", "correct": true },
+            { "text": "zaslanie súhrnu konkrétnej objednávky, ktorú je ešte možné zmeniť", "correct": false },
+            { "text": "doručenie návrhu kúpnej zmluvy, ktorú podpisuje predávajúci a kupujúci", "correct": false }
+        ]
+    },
+    {
+        "question": "V zmysle zákona č. 185/2015 Z. z. Autorský zákon platí pre ochranu počítačového programu, že:",
+        "answers": [
+            { "text": "Počítačový program je súbor príkazov a inštrukcií vyjadrených v akejkoľvek forme použitých priamo alebo nepriamo v počítači alebo podobnom technickom zariadení", "correct": true },
+            { "text": "Súčasťou počítačového programu nie je podkladový materiál použitý na jeho vytvorenie", "correct": false },
+            { "text": "Myšlienky a princípy, na ktorých je založený prvok počítačového programu, vrátane tých, ktoré sú podkladom jeho rozhrania, sú chránené", "correct": false },
+            { "text": "Oprávnený používateľ nesmie používať počítačový program v rozpore s bežným využitím počítačového programu", "correct": false },
+            { "text": "Do práva autora počítačového programu nezasahuje oprávnený užívateľ, ak bez súhlasu autora počítačového programu skúma, študuje alebo skúša funkčnosť počítačového programu na účel určenia myšlienky alebo princípov, ktoré sú základom akejkoľvek časti počítačového programu", "correct": true }
+        ]
+    },
+    {
+        "question": "O počítačovom programe podľa zákona č. 185/2015 Z. z. Autorský zákon platí:",
+        "answers": [
+            { "text": "príkazy a inštrukcie môžu byť napísané alebo vyjadrené len v strojovom kóde", "correct": false },
+            { "text": "je súbor príkazov a inštrukcií vyjadrených v akejkoľvek forme použitých priamo alebo nepriamo v počítači alebo v podobnom technickom zariadení", "correct": true },
+            { "text": "je výsledkom tvorivej duševnej činnosti autora", "correct": true },
+            { "text": "môže byť aj súčasťou technického riešenia chráneného patentom", "correct": true },
+            { "text": "príkazy a inštrukcie môžu byť napísané alebo vyjadrené len v zdrojovom kóde", "correct": false }
+        ]
+    },
+    {
+        "question": "Elektronický občiansky preukaz v zmysle zákona č. 224/2006 Z. z. o občianskych preukazoch:",
+        "answers": [
+            { "text": "je dokladom totožnosti, ktorý sa používa vo fyzickom svete a v online prostredí pri prístupe k elektronickým službám verejnej správy", "correct": true },
+            { "text": "vydáva sa vždy za poplatok", "correct": false },
+            { "text": "môže obsahovať súkromný kľúč, ktorý slúži na vytvorenie elektronického podpisu", "correct": true },
+            { "text": "je novým druhom občianskych preukazov, ktorý sa využíva len pri prístupe k elektronickým službám verejnej správy", "correct": false },
+            { "text": "aktivuje sa zadaním bezpečnostného osobného kódu", "correct": true }
+        ]
+    },
+    {
+        "question": "Právne akty EÚ, ktoré sú podľa čl. 288 ods. 3 ZFEÚ záväzné len pre členské štáty a musia byť preto vnútroštátnym predpisom implementované do vnútroštátneho právneho poriadku. Uvedená definícia platí pre nasledujúce sekundárne právne akty EÚ:",
+        "answers": [
+            { "text": "odporúčania Súdneho dvora EÚ", "correct": false },
+            { "text": "rozhodnutia Súdneho dvora EU", "correct": false },
+            { "text": "smernice Súdneho dvora EU", "correct": false },
+            { "text": "smernice Rady ", "correct": true },
+            { "text": "smernica Európskeho parlamentu", "correct": true }
+        ]
+    },
+    {
+        "question": "V zmysle zákona č. 351/2011 Z. z. o elektronických komunikáciách: Zmluva o poskytovaní verejných služieb musí obsahovať:",
+        "answers": [
+            { "text": "popis poskytovania služieb, najmä informácie o obmedzeniach týkajúcich sa prístupu k službám a aplikáciám alebo ich používania", "correct": true },
+            { "text": "popis poskytovaných služieb, najmä informácie o prístupe k službám tiesňového volania a lokalizačným údajom", "correct": true },
+            { "text": "spôsoby odškodnenia a systémy úhrad, ktoré sa uplatnia v prípade nesplnenia zmluvne dohodnutej úrovne kvality služieb", "correct": true },
+            { "text": "druhy opatrení, ktoré môže podnik prijať v prípade narušenia bezpečnosti alebo integrity siete, alebo v prípade jej ohrozenia alebo poškodenia", "correct": false },
+            { "text": "popis poskytovaných služieb, najmä informácie o druhoch servisných a podporných služieb a kontaktné údaje na tieto služby", "correct": true }
+        ]
+    },
+    {
+        "question": "Podľa zákona č. 351/2011 Z. z. o elektronických komunikáciách ... je podnik povinný:",
+        "answers": [
+            { "text": "uzavrieť zmluvu o poskytovaní verejných služieb s každým záujemcom o poskytovanie verejnej služby, ak nie je dôvod na jej odmietnutie;", "correct": true },
+            { "text": "poskytovať informácie len na základe odôvodnenej žiadosti telekomunikačného úradu;", "correct": false },
+            { "text": "zabezpečiť koncovým užívateľom verejných telefónnych automatov odplatný prístup k tiesňovým službám;", "correct": false },
+            { "text": "pri uzatvorení zmluvy o poskytovaní verejných služieb získavať a overovať údaje účastníka vrátane účastníka používajúceho predplatené služby podniku a viesť evidenciu týchto údajov;", "correct": true },
+            { "text": "zabezpečiť svojim účastníkom prístup k informačnej službe o telefónnych číslach.", "correct": true }
+        ]
+    },
+    {
+        "question": "V zmysle Nariadenia EP a Rady 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Nariadenie eIDAS) platí, že:",
+        "answers": [
+            { "text": "elektronický podpis sa delí na obyčajný elektronický podpis, zdokonalený elektronický podpis a kvalifikovaný elektronický podpis.", "correct": true },
+            { "text": "len kvalifikovaný elektronický podpis má právny účinok rovnocenný s vlastnoručným podpisom.", "correct": true },
+            { "text": "len kvalifikovaná elektronická pečať má právny účinok rovnocenný s vlastnoručným podpisom.", "correct": false },
+            { "text": "kvalifikovaný elektronický podpis musí byť vyhotovený s použitím kvalifikovaného zariadenia na vyhotovenie elektronického podpisu.", "correct": true },
+            { "text": "elektronický podpis nesmie byť odmietaný ako dôkaz v súdnom konaní iba z toho dôvodu, že má elektronickú podobu.", "correct": true }
+        ]
+    },
+    {
+        "question": "Medzi podmienky vzájomného uznávania prostriedkov elektronickej identifikácie v zmysle Nariadenia EP a Rady 910/2014 z 23. júla 2014 o elektronickej identifikácií a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Nariadenie eIDAS) patrí:",
+        "answers": [
+            { "text": "príslušný subjekt verejného sektora používa vo vzťahu k prístupu k danej online službe úroveň záruky \"pokročilá\" alebo \"vysoká\"", "correct": false },
+            { "text": "elektronický podpis musí byť na úrovni kvalifikovaného elektronického podpisu", "correct": false },
+            { "text": "musí ísť o oznámenú schému elektronickej identifikácie", "correct": true },
+            { "text": "úroveň záruky prostriedku elektronickej identifikácie zodpovedá rovnakej alebo vyššej úrovni záruky, ako je úroveň záruky, ktorú vyžaduje príslušný subjekt verejného sektora pre prístup k online službe", "correct": false },
+            { "text": "príslušný subjekt verejného sektora používa vo vzťahu k prístupu k danej online službe úroveň záruky \"vysoká\"", "correct": true }
+        ]
+    },
+    {
+        "question": "V zmysle Smernice Európskeho parlamentu a Rady (EÚ) 2016/1148 (Smernica NIS) platí, že:",
+        "answers": [
+            { "text": "poskytovatelia digitálnych služieb nie sú povinní oznamovať závažné incidenty", "correct": false },
+            { "text": "sa má vytvoriť sieť jednotiek pre riešenie počítačových bezpečnostných incidentov", "correct": true },
+            { "text": "kybernetická bezpečnosť je časťou informačnej bezpečnosti", "correct": true },
+            { "text": "medzi siete a informačné systémy patrí elektronická komunikačná sieť", "correct": true },
+            { "text": "prevádzkovateľ digitálnych služieb je povinný do 72 hodin od vzniku incidentu oznamovať príslušnému orgánu alebo jednotke CSIRT incidenty, ktoré majú závažný vplyv na kontinuitu základných služieb, ktoré poskytuje", "correct": false }
+        ]
+    },
+    {
+        "question": "Medzi povinnosti prevádzkovateľov základných služieb v zmysle smernice Európskeho parlamentu a Rady (EÚ) 2016/1148 (Smernica NIS) patria:",
+        "answers": [
+            { "text": "prijať primerané opatrenia na zabránenie a minimalizovanie vplyvu incidentov, ktoré ovplyvňujú bezpečnosť sietí a informačných systémov používaných na poskytovanie týchto základných služieb", "correct": true },
+            { "text": "bez zbytočného odkladu oznamovať príslušnému orgánu alebo jednotke CSIRT incidenty, ktoré majú závažný vplyv na kontinuitu základných služieb", "correct": true },
+            { "text": "do 72 hodín od vzniku incidentu oznamovať príslušnému orgánu alebo jednotke CSIRT incidenty, ktoré majú závažný vplyv na kontinuitu základných služieb, ktoré poskytujú", "correct": false },
+            { "text": "prijať adekvátne (najjednoduchšie ) technické a organizačné opatrenia na riadenie rizík spojených so sieťami a informačnými systémami, ktoré využívajú vo svojej prevádzke", "correct": false },
+            { "text": "bez zbytočného odkladu oznamovať len celoeurópskej jednotke CSIRT incidenty, ktoré majú závažný vplyv na kontinuitu základných služieb, ktoré poskytujú", "correct": false }
+        ]
+    },
+    {
+        "question": "V prípade Infopaq, ktorý sa týkal vyhotovenia zhrnutí vybraných článkov z dánskych denníkov a iných periodík, posudzoval Súdny dvor Európskej únie prejudiciálne otázky, a vo svojom rozsudku dospel k nasledujúcim záverom:",
+        "answers": [
+            { "text": "výber, umiestenie a kombinácia slov umožňujú autorovi vyjadriť svoju tvorivosť a dospieť tak k výsledku, ktorý je duševnou tvorbou", "correct": true },
+            { "text": "časti autorského diela nie sú chránené autorským právom", "correct": false },
+            { "text": "ochrana autorských diel sa nevzťahuje na právnické osoby", "correct": false },
+            { "text": "samotné slová nie sú prvkami, na ktoré sa vzťahuje autorskoprávna ochrana", "correct": true },
+            { "text": "autorské právo sa uplatňuje len na predmety, ktoré sú pôvodné v tom zmysle, že sú výsledkom autorovej vlastnej duševnej tvorby", "correct": true }
+        ]
+    },
+    {
+        "question": "Autorský zákon priznáva autorovi diela osobnostné a majetkové práva. V prípade zamestnaneckého diela dochádza k presunu majetkových práv na zamestnávateľa. Medzi majetkové práva patria:",
+        "answers": [
+            { "text": "právo previesť autorstvo diela na inú osobu", "correct": false },
+            { "text": "právo označiť dielo pseudonymom", "correct": false },
+            { "text": "právo rozhodnúť o zverejnení diela", "correct": true },
+            { "text": "právo na nedotknuteľnosť diela", "correct": false },
+            { "text": "právo udeľovať súhlas na zverejnenie diela", "correct": true }
+        ]
+    },
+    {
+        "question": "V prípade informačných elektronických služieb verejnej správy platí:",
+        "answers": [
+            { "text": "možno ich deliť na komunikačné a transakčné", "correct": false },
+            { "text": "osoba vie nájsť formulár na webovom sídle orgánu verejnej správy a môže ho zaslať elektronicky", "correct": true },
+            { "text": "osoba sa nemusí identifikovať a autentifikovať k takejto elektronickej službe verejnej správy", "correct": false },
+            { "text": "osoba vie nájsť formulár na webovom sídle orgánu verejnej správy, ale nemôže ho zaslať elektronicky", "correct": false },
+            { "text": "osoba vie vykonať úhradu za takúto elektronickú službu verejnej správy", "correct": true }
+        ]
+    },
+    {
+        "question": "Okolnosti, s ktorými právna norma spája vznik, zmenu alebo zánik právneho vzťahu rozdeľujeme podľa võle subjektu na 4 skupiny. Medzi okolnosti nezávislé od vôle subjektu patria:",
+        "answers": [
+            { "text": "právne udalosti", "correct": true },
+            { "text": "trestná činnosť", "correct": false },
+            { "text": "protiprávne konanie", "correct": false },
+            { "text": "protiprávne udalosti (stavy)", "correct": true },
+            { "text": "spáchanie priestupku", "correct": false }
+        ]
+    },
+    {
+        "question": "Primárne právo EÚ je:",
+        "answers": [
+            { "text": "právo EÚ, ktorého súčasťou je aj Zmluva z Nice", "correct": true },
+            { "text": "právo EÚ, ktorého súčasťou je aj dohoda o vystúpení Veľkej Británie z roku 2020", "correct": false },
+            { "text": "právo EÚ, ktorého súčasťou sú aj zakladateľské zmluvy a ich revízie", "correct": true },
+            { "text": "právo EÚ, ktorého súčasťou je Zmluva o pristúpení s Gréckom z roku 1979", "correct": true },
+            { "text": "právo EÚ, ktorého súčasťou je aj Charta základných práv Európskej únie", "correct": true }
+        ]
+    },
+    {
+        "question": "O eGovernmente platí:",
+        "answers": [
+            { "text": "na území SR je možné voliť elektronicky", "correct": false },
+            { "text": "eDemokracia patrí do eGovernmentu, len sa na území SR nerealizuje", "correct": false },
+            { "text": "eSpráva je súčasťou eVolieb", "correct": false },
+            { "text": "súčasťou eGovernmentu je aj Front office", "correct": true },
+            { "text": "súčasťou elektronickej komunikácie je aj Back office", "correct": true }
+        ]
+    },
+    {
+        "question": "O spätnom programe počítačového programu platí:",
+        "answers": [
+            { "text": "Môže ho uskutočniť nadobúdateľ licencie alebo iná osoba, ktorá má právo používať rozmnoženinu počítačového programu, alebo osoba oprávnená tak konať v ich mene.", "correct": true },
+            { "text": "Môžeme ho realizovať iba za účelom dosiahnutia interoperability príslušného počítačového programu.", "correct": true },
+            { "text": "Môžeme ho realizovať iba v prípade, keď interoperabilitu nie je možné dosiahnuť iným spôsobom.", "correct": true },
+            { "text": "Informácia takto získaná môže byť využitá na vývoj, výrobu alebo odbyt počítačového podobného programu.", "correct": false },
+            { "text": "Môžeme ho realizovať iba v prípadoch, keď by zabezpečenie interoperability iným spôsobom bolo možné dosiahnuť zdĺhavým a ťažko dostupným spôsobom.", "correct": false }
+        ]
+    },
+    {
+        "question": "Medzi obligatórne náležitosti pracovnej zmluvy patria:",
+        "answers": [
+            { "text": "druh práce a jej stručná charakteristika", "correct": true },
+            { "text": "výplatné termíny mzdy", "correct": false },
+            { "text": "dĺžka výpovednej doby", "correct": false },
+            { "text": "miesto výkonu práce", "correct": true },
+            { "text": "výmera dovolenky", "correct": false }
+        ]
+    },
+    {
+        "question": "Medzi sekundárne právne predpisy v Slovenskej republike patria nasledujúce akty:",
+        "answers": [
+            { "text": "Nariadenia vlády Slovenskej republiky", "correct": true },
+            { "text": "Ústava SR a ústavné zákony", "correct": false },
+            { "text": "Zákony Národnej rady Slovenskej republiky", "correct": false },
+            { "text": "Rozhodnutia všeobecných súdov Slovenskej republiky", "correct": false },
+            { "text": "Rozhodnutia Zboru väzenskej a justičnej stráže", "correct": false }
+        ]
+    },
+    {
+        "question": "Právny vzťah je:",
+        "answers": [
+            { "text": "je výsledkom právnej skutočnosti", "correct": true },
+            { "text": "právom regulovaný spoločenský vzťah", "correct": true },
+            { "text": "jeho účastníci majú práva a povinnosti", "correct": true },
+            { "text": "vznikne aj po smrti fyzickej osoby", "correct": true },
+            { "text": "je aj manželstvo", "correct": true }
+        ]
+    },
+    {
+        "question": "Pracovný pomer možno skončiť:",
+        "answers": [
+            { "text": "okamžitým skončením pracovného pomeru zo strany zamestnanca", "correct": true },
+            { "text": "výpoveďou bez udania dôvodu", "correct": false },
+            { "text": "výpoveďou tehotnej ženy", "correct": false },
+            { "text": "okamžitým skončením pracovného pomeru zo strany zamestnávateľa", "correct": true },
+            { "text": "okamžitým skončením pracovného pomeru tehotnej ženy", "correct": false }
+        ]
+    },
+    {
+        "question": "Ku skončeniu pracovného pomeru môže dôjsť:",
+        "answers": [
+            { "text": "na základe súdneho rozhodnutia", "correct": true },
+            { "text": "na základe právneho úkonu", "correct": true },
+            { "text": "dosiahnutím 70 rokov života", "correct": false },
+            { "text": "na základe úradného rozhodnutia", "correct": true },
+            { "text": "na základe právnej udalosti", "correct": true }
+        ]
+    },
+    {
+        "question": "Uveďte, ktoré tvrdenie je pravdivé:",
+        "answers": [
+            { "text": "Právna norma je všeobecne záväzné pravidlo ľudského správania", "correct": true },
+            { "text": "Právna norma môže mať podobu len príkazu a zákazu", "correct": false },
+            { "text": "Právna norma sa nachádza v ústavných zákonoch", "correct": true },
+            { "text": "Právna norma sa nachádza v nariadeniach Európskej komisie", "correct": true },
+            { "text": "Pojmovým znakom právnej normy je kogentnosť", "correct": false }
+        ]
+    },
+    {
+        "question": "Uveďte, ktoré tvrdenie je pravdivé:",
+        "answers": [
+            { "text": "Kogentná právna norma nie je súčasťou nášho právneho poriadku, ale je súčasťou práva EÚ", "correct": false },
+            { "text": "Dispozitívna právna norma je súčasťou nášho právneho poriadku, ale nie je súčasťou práva EÚ", "correct": false },
+            { "text": "Kogentná právna norma je súčasťou nášho právneho poriadku", "correct": true },
+            { "text": "Imperatívna právna norma je súčasťou nášho právneho poriadku", "correct": true },
+            { "text": "Imperatívna právna norma je súčasťou dispozitívnej normy", "correct": false }
+        ]
+    },
+    {
+        "question": "O fiktivnom pracovnom pomere plati:",
+        "answers": [
+            { "text": "pracovný pomer založený neplatnou pracovnou zmluvou", "correct": true },
+            { "text": "z neplatného pracovného pomeru zamestnancovi nevzniká nárok na vyplatenie mzdy", "correct": false },
+            { "text": "pokiaľ subjekty o neplatnosti pracovného pomeru nevedia, tak pre nich platia ustanovenia zákonníka práce", "correct": true },
+            { "text": "aj pri neplatnom pracovnom pomere je možné zamestnancovi nariadiť prácu", "correct": false },
+            { "text": "pokiaľ subjekty o neplatnosti pracovného pomeru vedia, tak vzniká iba záväzok zamestnávateľa vyplatiť mzdu za vykonanú prácu", "correct": true }
+        ]
+    },
+    {
+        "question": "Aké sú charakteristiky tiesňovej komunikácie?",
+        "answers": [
+            { "text": "Používa výhradne geografické čísla", "correct": false },
+            { "text": "Je to komunikácia medzi užívateľmi rovnakého poskytovateľa", "correct": false },
+            { "text": "Poskytuje pomoc v núdzových situáciách", "correct": true },
+            { "text": "Umožňuje komunikáciu medzi užívateľom a tiesňovým centrom", "correct": true },
+            { "text": "Vyžaduje špeciálne technické vybavenie", "correct": false }
+        ]
+    },
+    {
+        "question": "Aké majú spoločné znaky predmety práv duševného vlastníctva?",
+        "answers": [
+            { "text": "Sú nevylúčiteľné", "correct": true },
+            { "text": "Ide o objekty, ktorých sa môžeme dotknúť (napríklad socha)", "correct": false },
+            { "text": "Sú to predmety, ktorých sa nevieme dotknúť", "correct": true },
+            { "text": "Použitie týchto objektov jednou osobou neobmedzuje zdroje iných", "correct": true },
+            { "text": "Sú všadeprítomné", "correct": false }
+        ]
+    },
+    {
+        "question": "O patentoch platí:",
+        "answers": [
+            { "text": "Patent a vynález je to isté", "correct": false },
+            { "text": "Patent nerieši otázku vynálezcovskej činnosti", "correct": false },
+            { "text": "Patent sa udeľuje na technické riešenie, ktoré je priemyselne využiteľné", "correct": true },
+            { "text": "Vynález musí predstavovať technické riešenie technického problému", "correct": true },
+            { "text": "Patent sa udeľuje na technické riešenie, ktoré je nové", "correct": true }
+        ]
+    },
+    {
+        "question": "Aké povinnosti má regulačný úrad v oblasti elektronických komunikácií?",
+        "answers": [
+            { "text": "Regulácia trhu elektronických komunikácií ex ante", "correct": true },
+            { "text": "Poskytovanie technickej podpory užívateľom", "correct": false },
+            { "text": "Dohľad nad plnením povinností podľa zákona", "correct": true },
+            { "text": "Vypracovanie národnej tabuľky frekvenčného spektra", "correct": true },
+            { "text": "Správa čísel a vydávanie číslovacieho plánu", "correct": true }
+        ]
+    },
+    {
+        "question": "Ktoré služby patria medzi elektronické komunikačné služby?",
+        "answers": [
+            { "text": "Tvorba multimediálneho obsahu", "correct": false },
+            { "text": "Služba prístupu k internetu", "correct": true },
+            { "text": "Služby stroj-stroj (M2M)", "correct": true },
+            { "text": "Služby obsahovej kontroly prenášaného obsahu", "correct": false },
+            { "text": "Interpersonálna komunikačná služba", "correct": true }
+        ]
+    },
+    {
+        "question": "Aké sú vlastnosti všeobecného povolenia na poskytovanie sietí alebo služieb?",
+        "answers": [
+            { "text": "Obsahuje povinnosti týkajúce sa ochrany osobných údajov", "correct": true },
+            { "text": "Stanovuje podmienky pre interpersonálne komunikačné služby nezávislé od čísel", "correct": false },
+            { "text": "Stanovuje pravidlá pre ochranu pred elektromagnetickým rušením", "correct": true },
+            { "text": "Poskytovanie služieb na jeho základe je dobrovoľné", "correct": false },
+            { "text": "Umožňuje interoperabilitu a dostupnosť čísel", "correct": true }
+        ]
+    },
+    {
+        "question": "Osobnostné práva autora zahŕňajú:",
+        "answers": [
+            { "text": "Právo na odmenu", "correct": false },
+            { "text": "Licencovať dielo", "correct": false },
+            { "text": "Právo odporovať každému znetvoreniu, skomoleniu alebo inej zmene diela", "correct": true },
+            { "text": "Právo udeliť súhlas na použitie diela", "correct": true },
+            { "text": "Právo použiť dielo", "correct": true }
+        ]
+    },
+    {
+        "question": "O počítačovom programe platí:",
+        "answers": [
+            { "text": "Každý si môže vykonať preklad, spracovanie, úpravu a každú inú zmenu počítačového programu", "correct": false },
+            { "text": "Môže ho vytvoriť aj zamestnanec", "correct": true },
+            { "text": "Prvý predaj rozmnoženiny počítačového programu v EÚ uskutočnený majiteľom práv alebo s jeho súhlasom vyčerpáva právo na verejné rozširovanie takejto rozmnoženiny", "correct": true },
+            { "text": "Na vyhotovenie záložnej rozmnoženiny, pokiaľ je na takéto použitie potrebná, sa vyžaduje súhlas majiteľa práv k počítačovému programu", "correct": false },
+            { "text": "Môže ho vytvoriť aj umelá inteligencia", "correct": false }
+        ]
+    },
+    {
+        "question": "Pri zamestnaneckom diele platí:",
+        "answers": [
+            { "text": "Autorom je zamestnávateľ", "correct": false },
+            { "text": "Zamestnanec vykonáva len majetkové práva k dielu", "correct": false },
+            { "text": "Autorom sú zamestnanec aj zamestnávateľ", "correct": false },
+            { "text": "Autorom je zamestnanec", "correct": true },
+            { "text": "Zamestnávateľ vykonáva len osobnostné práva k dielu", "correct": false }
+        ]
+    },
+    {
+        "question": "Kto môže byť autorom počítačového programu?",
+        "answers": [
+            { "text": "Osoba, ktorá programátorovi načrtla myšlienky a princípy počítačového programu", "correct": false },
+            { "text": "Fyzická osoba, ktorá nemá spôsobilosť na právne úkony v plnom rozsahu", "correct": true },
+            { "text": "Skupina fyzických osôb", "correct": true },
+            { "text": "Fyzická osoba, ktorá počítačový program naprogramovala", "correct": true },
+            { "text": "Umelá inteligencia", "correct": false }
+        ]
+    },
+    {
+        "question": "Ktoré povinnosti má podnik v oblasti poskytovania elektronických komunikácií?",
+        "answers": [
+            { "text": "Prevádzkovať infraštruktúru výhradne pre vládne účely", "correct": false },
+            { "text": "Uchovávať údaje o užívateľoch verejných služieb", "correct": true },
+            { "text": "Poskytovať verejne dostupné služby", "correct": true },
+            { "text": "Vykonávať redakčnú kontrolu nad obsahom", "correct": false },
+            { "text": "Zabezpečiť ochranu osobných údajov", "correct": true }
+        ]
+    },
+    {
+        "question": "Spoločné znaky duševného vlastníctva sú:",
+        "answers": [
+            { "text": "Nie je ťažké obmedziť prístup k týmto predmetom", "correct": false },
+            { "text": "Použitie týchto objektov neobmedzuje druhých užívateľov", "correct": true },
+            { "text": "Všadeprítomnosť", "correct": false },
+            { "text": "Ich objektom je nehmotný predmet", "correct": true },
+            { "text": "Nevylučiteľnosť", "correct": true }
+        ]
+    },
+    {
+        "question": "Čo zahŕňa elektronická komunikačná sieť?",
+        "answers": [
+            { "text": "Prenos signálov cez optické vedenia", "correct": true },
+            { "text": "Siete používané na rozhlasové a televízne vysielanie", "correct": true },
+            { "text": "Výlučne pevné siete s prepájaním okruhov", "correct": false },
+            { "text": "Prenos signálov prostredníctvom rádiových vĺn", "correct": true },
+            { "text": "Prenos signálov cez infračervené lúče", "correct": true }
+        ]
+    }
+]

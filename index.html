@@ -1,11 +1,43 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="sk">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PIKT quiz</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PIKT skúška trainer</title>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <h1>Github test</h1>
+    <div id="quiz-container">
+        <header class="card-header">
+            <h1>PIKT skúška</h1>
+            <div id="quiz-stats">
+                <span>Nové: <strong id="new-count">0</strong></span>
+                &nbsp;•&nbsp;
+                <span>Nenaučené: <strong id="notlearned-count">0</strong></span>
+                &nbsp;•&nbsp;
+                <span>Naučené: <strong id="learned-count">0</strong></span>
+                &nbsp;&nbsp;
+                <button id="reset-btn">Resetovať postup</button>
+            </div>
+        </header>
+
+        <main>
+            <div class="question-box" id="question-text"></div>
+            <div class="answers" id="answers"></div>
+
+            <div class="controls">
+                <button id="check-btn">Skontrolovať</button>
+                <button id="next-btn" class="hidden">Ďalšia otázka</button>
+            </div>
+
+            <div id="result"></div>
+        </main>
+    </div>
+
+
+    <script src="script.js"></script>
 </body>
+
 </html>
