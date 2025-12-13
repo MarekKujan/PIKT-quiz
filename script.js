@@ -79,16 +79,17 @@ function showNewQuestion() {
     const qBox = document.getElementById('question-text');
     qBox.textContent = currentQuestion.question;
 
-    const answersBox = document.getElementById('answers');
-    answersBox.innerHTML = '';
+    const answers = currentQuestion.answers.map(
+      (a, idxAns) =>
+        `<label>
+          <input type="checkbox" data-index="${idxAns}" />
+          <span class="label-text">${a.text}</span>
+        </label>`,
+    );
 
-    currentQuestion.answers.forEach((a, idxAns) => {
-        answersBox.innerHTML += `
-            <label>
-              <input type="checkbox" data-index="${idxAns}" />
-              <span class="label-text">${a.text}</span>
-            </label>`;
-    });
+    shuffle(answers);
+
+    const answersBox = document.getElementById('answers');
 
     // reset any inline styles from previous question
     const labels = answersBox.querySelectorAll('label');
