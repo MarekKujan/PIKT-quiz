@@ -79,13 +79,12 @@ function showNewQuestion() {
     const qBox = document.getElementById('question-text');
     qBox.textContent = currentQuestion.question;
 
-    const answers = currentQuestion.answers.map(
-        (a, idxAns) =>
-            `<label>
-          <input type="checkbox" data-index="${idxAns}" />
-          <span class="label-text">${a.text}</span>
-        </label>`,
-    );
+        const answers = currentQuestion.answers.map(function(a, idxAns) {
+            return '<label>' +
+                         '<input type="checkbox" data-index="' + idxAns + '" />' +
+                         '<span class="label-text">' + (a.text || '') + '</span>' +
+                         '</label>';
+        });
 
     shuffle(answers);
 
