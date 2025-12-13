@@ -80,8 +80,8 @@ function showNewQuestion() {
     qBox.textContent = currentQuestion.question;
 
     const answers = currentQuestion.answers.map(
-      (a, idxAns) =>
-        `<label>
+        (a, idxAns) =>
+            `<label>
           <input type="checkbox" data-index="${idxAns}" />
           <span class="label-text">${a.text}</span>
         </label>`,
@@ -90,6 +90,8 @@ function showNewQuestion() {
     shuffle(answers);
 
     const answersBox = document.getElementById('answers');
+    
+    answersBox.innerHTML = answers.join('');
 
     // reset any inline styles from previous question
     const labels = answersBox.querySelectorAll('label');
