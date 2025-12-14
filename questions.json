@@ -102,7 +102,7 @@
     {
         "question": "Medzi podmienky vzájomného uznávania prostriedkov elektronickej identifikácie v zmysle Nariadenia EP a Rady 910/2014 z 23. júla 2014 o elektronickej identifikácií a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Nariadenie eIDAS) patrí:",
         "answers": [
-            { "text": "príslušný subjekt verejného sektora používa vo vzťahu k prístupu k danej online službe úroveň záruky \"pokročilá\" alebo \"vysoká\"", "correct": false },
+            { "text": "príslušný subjekt verejného sektora používa vo vzťahu k prístupu k danej online službe úroveň záruky \"pokročilá\" alebo \"vysoká\"", "correct": true },
             { "text": "elektronický podpis musí byť na úrovni kvalifikovaného elektronického podpisu", "correct": false },
             { "text": "musí ísť o oznámenú schému elektronickej identifikácie", "correct": true },
             { "text": "úroveň záruky prostriedku elektronickej identifikácie zodpovedá rovnakej alebo vyššej úrovni záruky, ako je úroveň záruky, ktorú vyžaduje príslušný subjekt verejného sektora pre prístup k online službe", "correct": false },
@@ -153,10 +153,10 @@
         "question": "V prípade informačných elektronických služieb verejnej správy platí:",
         "answers": [
             { "text": "možno ich deliť na komunikačné a transakčné", "correct": false },
-            { "text": "osoba vie nájsť formulár na webovom sídle orgánu verejnej správy a môže ho zaslať elektronicky", "correct": true },
-            { "text": "osoba sa nemusí identifikovať a autentifikovať k takejto elektronickej službe verejnej správy", "correct": false },
+            { "text": "osoba vie nájsť formulár na webovom sídle orgánu verejnej správy a môže ho zaslať elektronicky", "correct": false },
+            { "text": "osoba sa nemusí identifikovať a autentifikovať k takejto elektronickej službe verejnej správy", "correct": true },
             { "text": "osoba vie nájsť formulár na webovom sídle orgánu verejnej správy, ale nemôže ho zaslať elektronicky", "correct": false },
-            { "text": "osoba vie vykonať úhradu za takúto elektronickú službu verejnej správy", "correct": true }
+            { "text": "osoba vie vykonať úhradu za takúto elektronickú službu verejnej správy", "correct": false }
         ]
     },
     {
@@ -173,7 +173,7 @@
         "question": "Primárne právo EÚ je:",
         "answers": [
             { "text": "právo EÚ, ktorého súčasťou je aj Zmluva z Nice", "correct": true },
-            { "text": "právo EÚ, ktorého súčasťou je aj dohoda o vystúpení Veľkej Británie z roku 2020", "correct": false },
+            { "text": "právo EÚ, ktorého súčasťou je aj dohoda o vystúpení Veľkej Británie z roku 2020", "correct": true },
             { "text": "právo EÚ, ktorého súčasťou sú aj zakladateľské zmluvy a ich revízie", "correct": true },
             { "text": "právo EÚ, ktorého súčasťou je Zmluva o pristúpení s Gréckom z roku 1979", "correct": true },
             { "text": "právo EÚ, ktorého súčasťou je aj Charta základných práv Európskej únie", "correct": true }
@@ -244,7 +244,7 @@
         "answers": [
             { "text": "na základe súdneho rozhodnutia", "correct": true },
             { "text": "na základe právneho úkonu", "correct": true },
-            { "text": "dosiahnutím 70 rokov života", "correct": false },
+            { "text": "dosiahnutím 70 rokov života", "correct": true },
             { "text": "na základe úradného rozhodnutia", "correct": true },
             { "text": "na základe právnej udalosti", "correct": true }
         ]
