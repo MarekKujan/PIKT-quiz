@@ -153,10 +153,10 @@
         "question": "V prípade informačných elektronických služieb verejnej správy platí:",
         "answers": [
             { "text": "možno ich deliť na komunikačné a transakčné", "correct": false },
-            { "text": "osoba vie nájsť formulár na webovom sídle orgánu verejnej správy a môže ho zaslať elektronicky", "correct": false },
-            { "text": "osoba sa nemusí identifikovať a autentifikovať k takejto elektronickej službe verejnej správy", "correct": true },
+            { "text": "osoba vie nájsť formulár na webovom sídle orgánu verejnej správy a môže ho zaslať elektronicky", "correct": true },
+            { "text": "osoba sa nemusí identifikovať a autentifikovať k takejto elektronickej službe verejnej správy", "correct": false },
             { "text": "osoba vie nájsť formulár na webovom sídle orgánu verejnej správy, ale nemôže ho zaslať elektronicky", "correct": false },
-            { "text": "osoba vie vykonať úhradu za takúto elektronickú službu verejnej správy", "correct": false }
+            { "text": "osoba vie vykonať úhradu za takúto elektronickú službu verejnej správy", "correct": true }
         ]
     },
     {
