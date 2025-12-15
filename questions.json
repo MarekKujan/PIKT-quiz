@@ -345,8 +345,8 @@
             { "text": "Právo na odmenu", "correct": false },
             { "text": "Licencovať dielo", "correct": false },
             { "text": "Právo odporovať každému znetvoreniu, skomoleniu alebo inej zmene diela", "correct": true },
-            { "text": "Právo udeliť súhlas na použitie diela", "correct": true },
-            { "text": "Právo použiť dielo", "correct": true }
+            { "text": "Právo udeliť súhlas na použitie diela", "correct": false },
+            { "text": "Právo použiť dielo", "correct": false }
         ]
     },
     {
