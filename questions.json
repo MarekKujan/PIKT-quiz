@@ -74,7 +74,7 @@
         "answers": [
             { "text": "popis poskytovania služieb, najmä informácie o obmedzeniach týkajúcich sa prístupu k službám a aplikáciám alebo ich používania", "correct": true },
             { "text": "popis poskytovaných služieb, najmä informácie o prístupe k službám tiesňového volania a lokalizačným údajom", "correct": true },
-            { "text": "spôsoby odškodnenia a systémy úhrad, ktoré sa uplatnia v prípade nesplnenia zmluvne dohodnutej úrovne kvality služieb", "correct": true },
+            { "text": "spôsoby odškodnenia a systémy úhrad, ktoré sa uplatnia v prípade nesplnenia zmluvne dohodnutej úrovne kvality služieb", "correct": false },
             { "text": "druhy opatrení, ktoré môže podnik prijať v prípade narušenia bezpečnosti alebo integrity siete, alebo v prípade jej ohrozenia alebo poškodenia", "correct": false },
             { "text": "popis poskytovaných služieb, najmä informácie o druhoch servisných a podporných služieb a kontaktné údaje na tieto služby", "correct": true }
         ]
